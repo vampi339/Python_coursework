@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30c63d27-01c5-4e28-b11c-68ad7003f6a4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/application/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/.idea/Python_coursework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/ai.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/gui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/obj/base_choice_list.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/obj/player_saves/CongressMan.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/obj/player_saves/Kalata.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/obj/player_saves/KalataTry.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/obj/player_saves/kartofa.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/obj/player_saves/kosmata.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/obj/player_saves/mata.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/obj/player_saves/misho.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/obj/player_saves/mitaka.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/obj/player_saves/mogatata.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/obj/player_saves/paperGuy.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/obj/player_saves/progres.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/obj/player_saves/stanislav.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/obj/player_saves/try.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/obj/player_saves/yordan.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/obj/userdict.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/obj/userdict/userdict.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/opiti.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hacker_rank_challenges/badge.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1oR8w1QhKxlVxUNJ8tvHTdBZA8o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_coursework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="Z:\trash folder\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30c63d27-01c5-4e28-b11c-68ad7003f6a4" name="Default Changelist" comment="" />
+      <created>1613238277252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613238277252</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="669" y="115" key="#main" timestamp="1613238305937">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="115" key="#main/0.0.1920.1040@0.0.1920.1040" timestamp="1613238305937" />
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom" timestamp="1613297444415">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613297444415" />
+    <state width="1899" height="282" key="GridCell.Tab.0.center" timestamp="1613297444415">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613297444415" />
+    <state width="1899" height="282" key="GridCell.Tab.0.left" timestamp="1613297444415">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613297444415" />
+    <state width="1899" height="282" key="GridCell.Tab.0.right" timestamp="1613297444415">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613297444415" />
+  </component>
+</project>
